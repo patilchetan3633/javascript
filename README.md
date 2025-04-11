@@ -6,10 +6,6 @@ A simple web-based notes application that uses **LocalStorage** to save and retr
 
 <img src="output video.gif">
 
-## 🖼️ Screenshots
-
-<img src="outputimages.png">
-
 ## 🌟 Features
 
 - Create and delete notes
